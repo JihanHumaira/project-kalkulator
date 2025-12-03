@@ -29,7 +29,10 @@ while True:
         elif choice == '3':
             print(multiply(num1, num2))
         elif choice == '4':
-            print(divide(num1, num2))
+            if num2==0:
+                print('maaf tidak bisa di bagi nol')
+            else:
+                print(divide(num1, num2))
     
         next_calculation = input("Let's do next calculation? (yes/no): ")
         if next_calculation == "yes":
@@ -38,3 +41,4 @@ while True:
           break
         else:
           print("Invalid Input")
+        
