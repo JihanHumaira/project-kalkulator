@@ -3,7 +3,6 @@ import random
 print("------------------------------")
 print("     M&M guessing game!")
 print("------------------------------")
-
 print("Guess the number of M&Ms and you get lunch on the house!")
 print()
 
@@ -22,7 +21,7 @@ while attempts < attempt_limit:
     if guess < 1 or guess > 5:
         print("❗ masukkan angka 1 - 5")
         continue
-        
+
     attempts += 1
 
     if mm_count == guess:
