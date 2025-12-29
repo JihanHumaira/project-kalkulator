@@ -20,6 +20,7 @@ Aplikasi ini dibuat sebagai project pembelajaran untuk melatih pengelolaan data,
 - Menyimpan saldo ke file (`saldo.txt`)
 
 - Mencatat riwayat transaksi ke file CSV (`riwayat.csv`)
+
   <img width="421" height="333" alt="image" src="https://github.com/user-attachments/assets/fa0618b1-0b06-43d4-8b65-b327314aa9dd" />
 
 - Validasi input (mencegah input huruf dan angka negatif)
