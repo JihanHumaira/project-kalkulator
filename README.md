@@ -1,4 +1,6 @@
 # 📊 Aplikasi Tabungan & Laporan Keuangan (Python)
+## Update
+Project ini telah direfaktor menjadi struktur modular dan ditambahkan fitur laporan keuangan berbasis CSV.
 
 ## Deskripsi
 Aplikasi berbasis Python untuk mencatat transaksi tabungan, menyimpan data secara permanen, serta menghasilkan laporan keuangan otomatis.  
