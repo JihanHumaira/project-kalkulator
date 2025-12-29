@@ -10,6 +10,8 @@ Aplikasi ini dibuat sebagai project pembelajaran untuk melatih pengelolaan data,
 
 ## Fitur Utama
 - Menambah saldo tabungan
+  <img width="350" height="197" alt="image" src="https://github.com/user-attachments/assets/3e383683-b5c8-4ff1-893f-caebb99d717f" />
+
 - Mengurangi saldo tabungan
 - Menyimpan saldo ke file (`saldo.txt`)
 - Mencatat riwayat transaksi ke file CSV (`riwayat.csv`)
